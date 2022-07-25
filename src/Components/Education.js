@@ -17,7 +17,7 @@ const Education = (props) => {
 
     return (
         <div>
-            {console.log("render_work")}
+            {console.log("render_education")}
             <EducationInput education = {education} setEducation={setEducation} entries={entries} setEntries={setEntries}/>
             <EducationEntries entries = {entries} setEntries = {setEntries} />
         </div>

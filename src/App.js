@@ -24,7 +24,7 @@ class App extends Component {
 
     return (
     <div className="App">
-      {console.log("render1")}
+      {console.log("render_app")}
       <Header basic_info = {basic_info} />
       <hr></hr>
       <h1><u>Education</u></h1>
