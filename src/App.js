@@ -13,7 +13,7 @@ class App extends Component {
       basic_info: {
         name: 'Artur Akulenko',
         email: 'artur.akulenko@gmail.com',
-        phone: '+37253092092',
+        phone: '+372530920922',
       }
     }
   }
